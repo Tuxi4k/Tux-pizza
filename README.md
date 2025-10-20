@@ -38,7 +38,7 @@ VITE_API_URL="https://your-api.com"
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaserka.caserca@gmail.com)  
 </div>
 
-#### 💾 Сам ящик
+#### 💾 Почтовый ящик (легаси способ)
 
 - 📮 kaserka.caserca@gmail.com
 
